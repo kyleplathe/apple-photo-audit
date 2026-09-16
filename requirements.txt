@@ -1,0 +1,9 @@
+# Apple Photos Auditor Requirements
+# Basic version - no external dependencies for core functionality
+
+# Optional: For advanced image analysis (blur detection, perceptual hashing)
+# Uncomment these if you want to add advanced duplicate/blur detection:
+# pillow>=10.0.0
+# imagehash>=4.3.1
+# opencv-python>=4.8.0
+# numpy>=1.24.0
